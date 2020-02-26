@@ -4,7 +4,7 @@ import { Layout, Menu, Breadcrumb, Icon } from 'antd';
 import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 import './App.css';
 
-const { SubMenu } = Menu;
+
 const { Header, Content, Sider, Footer } = Layout;
 
 
