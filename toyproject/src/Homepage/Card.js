@@ -1,10 +1,8 @@
 
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import 'antd/dist/antd.css';
 
-import { Card, Icon, Avatar } from 'antd';
-import { Row, Col } from 'antd';
+import { Card, Icon } from 'antd';
 
 const { Meta } = Card;
 

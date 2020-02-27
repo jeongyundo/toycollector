@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './Admin/App';
-import Carddiv from './Homepage/Card'
 import Carouseldiv from './Homepage/Carousel'
 import Columnsdiv from './Homepage/Columns'
 import Header from './Homepage/Header'
