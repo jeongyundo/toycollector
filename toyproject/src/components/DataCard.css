@@ -1,0 +1,18 @@
+.Data-card {
+    box-shadow: 5px 5px gray;
+}
+
+.description {
+    
+    display: -webkit-box; 
+    display: -ms-flexbox; 
+    display: flex; 
+    margin-top:1px; 
+    max-height:80px; 
+    overflow:hidden; 
+    vertical-align:top; 
+    text-overflow: ellipsis; 
+    word-break:break-all; 
+    -webkit-box-orient:vertical; 
+    -webkit-line-clamp:3
+}
